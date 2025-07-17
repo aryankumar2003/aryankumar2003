@@ -74,7 +74,6 @@ I'm a **Computer Science student** passionate about building scalable web soluti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryankumar&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankumar&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
