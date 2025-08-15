@@ -137,18 +137,34 @@ const currentRole = {
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryankumar&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Aryan Kumar github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryankumar2003&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Aryan Kumar github stats" /> 
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankumar&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankumar2003&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryankumar&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryankumar2003&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankumar2003&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+</div></div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"> **Real-Time GitHub Metrics**
+
+<div align="center">
+
+### 📊 **Repository Stats**
+![Repositories](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&labelColor=333&color=6366f1&query=%24.public_repos&url=https%3A//api.github.com/users/aryankumar2003&style=for-the-badge)
+![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=333&color=6366f1&query=%24.followers&url=https%3A//api.github.com/users/aryankumar2003&style=for-the-badge)
+![Following](https://img.shields.io/badge/dynamic/json?logo=github&label=Following&labelColor=333&color=6366f1&query=%24.following&url=https%3A//api.github.com/users/aryankumar2003&style=for-the-badge)
+
+### 🏆 **GitHub Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=aryankumar2003&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 </div>
 
 ---
@@ -164,7 +180,7 @@ const currentRole = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722)](https://aryankumar.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:aryankumar2003may@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=aryankumar&color=6366f1&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=aryankumar2003&color=6366f1&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
